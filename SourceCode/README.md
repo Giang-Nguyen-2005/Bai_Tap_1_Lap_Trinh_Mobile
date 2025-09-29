@@ -12,4 +12,4 @@
 - Output: Hiển thị UI trên màn hình.
 
 Ảnh khi chạy app trên máy ảo
-![alt text](image.png)
+![Uploading image.png…]()
