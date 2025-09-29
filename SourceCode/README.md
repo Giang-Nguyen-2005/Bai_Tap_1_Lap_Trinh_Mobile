@@ -12,4 +12,5 @@
 - Output: Hiển thị UI trên màn hình.
 
 Ảnh khi chạy app trên máy ảo
-![Uploading image.png…]()
+<img width="574" height="882" alt="image" src="https://github.com/user-attachments/assets/a5c9dcb5-a9cb-49ac-8c20-28eca72b9530" />
+
