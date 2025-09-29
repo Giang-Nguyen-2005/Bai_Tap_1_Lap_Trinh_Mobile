@@ -23,7 +23,8 @@ Theo em là có:
 
 ## Mục tiêu và kết quả đạt được
 -Mục tiêu: Tìm hiểu cách thiết kế giao diện app trên Android Studio
--Kết quả đạt được : Được thực hành và hiểu được cách thiết kế giao diện cơ bản trên Android Studio
+
+-Kết quả đạt được : Được thực hành và hiểu được cách thiết kế giao diện cơ bản trên Android Studio 
 
 Ảnh chụp màn hình:  
 ![alt text](image.png)
